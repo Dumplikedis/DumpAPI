@@ -1,14 +1,23 @@
 {
-    "name": "animals",
-    "animals": [
-        "Dog",
-        "Cat",
-        "Mouse",
-        "Pig",
-        "Bear"
-  ],
-  "hobbies": {
-        "football": false,
-        "reading": true
-  }
+    "name": "artdumpAPI",
+    "home": [
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+    ],
+    "home_icons": [
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+    ],
+    "create_selection": [
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+    ],
+    "view_selection": [
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+        "https://imgur.com/nwRrDdT",
+    ],
 }
