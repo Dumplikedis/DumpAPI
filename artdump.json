@@ -1,23 +1,14 @@
 {
     "name": "artdumpAPI",
-    "home": [
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT"
+    "home_fly": [
+        "https://i.imgur.com/jT4n9hy.png",
+        "https://i.imgur.com/q1ZBU1q.png
     ],
-    "home_icons": [
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT"
-    ],
-    "create_selection": [
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT"
-    ],
-    "view_selection": [
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT",
-        "https://imgur.com/nwRrDdT"
+    "head_icon": "https://i.imgur.com/YuNLXe1.png",
+    "icons": [
+        "https://i.imgur.com/vvffHTE.png",
+        "https://i.imgur.com/8910DPk.png",
+        "https://i.imgur.com/86VeEdJ.png",
+        "https://i.imgur.com/lxpIXp5.png"
     ]
 }
